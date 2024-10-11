@@ -12,7 +12,9 @@
 - Flatten Object 1
 - Flatten Array 1
 - Longest Sequence
-- Two Sum Problem
+- Two Sum Problem 
+- First non repeating character
+- Biggest Mountain
 
 ## React questions
 
