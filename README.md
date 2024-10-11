@@ -11,6 +11,8 @@
 
 - Flatten Object 1
 - Flatten Array 1
+- Longest Sequence
+- Two Sum Problem
 
 ## React questions
 
