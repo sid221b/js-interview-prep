@@ -9,12 +9,13 @@
 
 ## Coding questions
 
-- Flatten Object 1
-- Flatten Array 1
+- Flatten Object
+- Flatten Array
 - Longest Sequence
 - Two Sum Problem 
 - First non repeating character
 - Biggest Mountain
+- Square Root
 
 ## React questions
 
