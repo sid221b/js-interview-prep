@@ -17,6 +17,7 @@
 - First non repeating character
 - Biggest Mountain
 - Square Root
+- Sequential Promise Run
 
 ## React questions
 
