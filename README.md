@@ -6,6 +6,7 @@
 - Promise all resolved
 - Promise turtle
 - reduce
+- split String.split
 
 ## Coding questions
 
