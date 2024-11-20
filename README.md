@@ -18,6 +18,7 @@
 - Biggest Mountain
 - Square Root
 - Sequential Promise Run
+- Valid Parentheses
 
 ## React questions
 
