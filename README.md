@@ -19,6 +19,7 @@
 - Square Root
 - Sequential Promise Run
 - Valid Parentheses
+- Encrypt / Decrypt Number
 
 ## React questions
 
