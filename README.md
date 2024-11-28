@@ -20,6 +20,7 @@
 - Sequential Promise Run
 - Valid Parentheses
 - Encrypt / Decrypt Number
+- Uncompress String
 
 ## React questions
 
@@ -27,3 +28,4 @@
 - FaqAccordionList
 - useDebounce
 - useLocalStorage
+- usePagination
