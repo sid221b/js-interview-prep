@@ -93,7 +93,7 @@ const TextHighlight = () => {
     <div className='bg-black h-screen w-full'>
       <main className='pt-24 mx-auto px-4 flex flex-col items-center w-full md:w-[720px] lg:w-[1024px]'>
         <h1 className='mb-12'>Text Highlighter</h1>
-        <p className='dark:bg-neutral-800 bg-neutral-200 p-4 w-full md:w-[50%] mb-4 rounded-lg dark:text-neutral-100'>
+        <p className='dark:bg-neutral-800 bg-neutral-200 p-4 w-full md:w-[80%] mb-4 rounded-lg dark:text-neutral-100'>
           {textFileParsed.map((wordItem) => {
             const { word, id, highlightedState, isSelected } = wordItem
             let style = ''
@@ -139,7 +139,7 @@ const TextHighlight = () => {
           </button>
         </div>
 
-        <div className='w-full md:w-[50%] my-12'>
+        <div className='w-full md:w-[80%] my-12'>
           <h2>Enter your custom text</h2>
           <textarea
             className='block w-full mb-4 h-32 dark:bg-neutral-800 p-4 rounded-lg dark:text-stone-300 bg-neutral-200 text-stone-700'

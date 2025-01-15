@@ -1,0 +1,13 @@
+.home_nav-links {
+  display: flex;
+  flex-direction: column;
+}
+
+.home_nav-links > a {
+  color: #725be8;
+  margin-bottom: 8px;
+}
+.home_nav-links > a:hover {
+  color: #70a0e3;
+  text-decoration: wavy;
+}
