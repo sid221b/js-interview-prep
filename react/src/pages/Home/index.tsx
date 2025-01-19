@@ -9,6 +9,7 @@ const Home = () => {
       <Link to='/multi-progress'>Multi Progress</Link>
       <Link to='/text-highlight'>Text Highlight</Link>
       <Link to='/alpha-keyboard'>Alphabet Keyboard</Link>
+      <Link to='/ham-menu'>Animated Screen Menu</Link>
     </div>
   )
 }
