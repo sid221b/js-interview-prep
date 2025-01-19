@@ -29,3 +29,4 @@
 - useDebounce
 - useLocalStorage
 - usePagination
+- Keyboard with custom input handling
