@@ -21,6 +21,8 @@
 - Valid Parentheses
 - Encrypt / Decrypt Number
 - Uncompress String
+- Stack with Min element method
+- Number string product
 
 ## React questions
 
